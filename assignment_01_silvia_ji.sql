@@ -1,11 +1,3 @@
-/*
-Host: sji.lmu.build
-Username: sjilmubu_dba
-Password: sql_2021
-*/
-
-
-
 -- sakila Database
 
 /*
